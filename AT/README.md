@@ -1,6 +1,6 @@
 # Removing Undesirable Feature Contributions using Out-of-Distribution Data
 
-This repository is the official implementation of "Removing Undesirable Feature Contributions using Out-of-Distribution Data", published as a conference paper at ICLR 2021. 
+This repository is the official implementation of "Removing Undesirable Feature Contributions using Out-of-Distribution Data", published as a conference paper at [ICLR 2021](https://openreview.net/forum?id=eIHYL6fpbkA). 
 
 ## Requirements
 
