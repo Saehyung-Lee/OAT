@@ -1,0 +1,15 @@
+name: OAT
+channels:
+  - defaults
+dependencies:
+  - numpy=1.18.1=py37h4f9e942_0
+  - numpy-base=1.18.1=py37hde5b4d6_1
+  - python=3.7.7=hcff3b4d_5
+  - scipy=1.4.1=py37h0b6359f_0
+  - six=1.14.0=py37_0
+  - tensorboard=1.13.1=py37hf484d3e_0
+  - tensorflow=1.13.1=gpu_py37hc158e3b_0
+  - tensorflow-base=1.13.1=gpu_py37h8d69cac_0
+  - tensorflow-estimator=1.13.0=py_0
+  - tensorflow-gpu=1.13.1=h0d30ee6_0
+  - tqdm=4.46.0=py_0
