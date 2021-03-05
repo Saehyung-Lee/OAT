@@ -27,7 +27,7 @@ num_classes = 10
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--oat', help='apply OAT', action='store_true')
-parser.add_argument('--alpha', default=5.0, type=float, help='hyperparameter alpha for OAT')
+parser.add_argument('--alpha', default=1.0, type=float, help='hyperparameter alpha for OAT')
 parser.add_argument('--suffix', help='suffix')
 args = parser.parse_args()
 
